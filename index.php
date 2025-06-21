@@ -1,7 +1,10 @@
 <?php
 require_once 'functions.php';
 
-$api_key = 'YOUR_API_KEY'; 
+require_once 'load_env.php';
+loadEnv(__DIR__ . '/.env');
+
+$api_key = $_ENV['WEATHER_API'];
 $default_city = 'Colombo';
 $city = isset($_GET['city']) ? $_GET['city'] : $default_city;
 
