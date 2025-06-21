@@ -77,8 +77,8 @@ The Weather Dashboard is a PHP-based web application that provides real-time wea
 
 1. **Download the application:**
 
-git clone https://github.com/Rashminda121/weather-app.git
-cd weather-app
+    git clone https://github.com/Rashminda121/weather-app.git
+    cd weather-app
 
 ### 🔧 Set up the environment
 
