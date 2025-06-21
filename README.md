@@ -6,15 +6,15 @@ A PHP-based web application that provides real-time weather information with a s
 
 ## 📑 Table of Contents
 
-- [Overview](#overview)  
-- [Features](#features)  
-- [Requirements](#requirements)  
-- [Installation](#installation)  
-- [Configuration](#configuration)  
-- [Usage](#usage)  
-- [API Documentation](#api-documentation)  
-- [Customization](#customization)  
-- [Troubleshooting](#troubleshooting)  
+- Overview  
+- Features  
+- Requirements  
+- Installation  
+- Configuration  
+- Usage  
+- API Documentation  
+- Customization  
+- Troubleshooting
 
 ---
 
