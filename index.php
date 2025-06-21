@@ -267,7 +267,7 @@ $sun_info = getSunInfo($api_key, $city);
         
         <footer>
             <p>Weather data provided by <a href="https://www.weatherapi.com/" target="_blank">WeatherAPI.com</a></p>
-            <p class="last-updated">Last updated: <?php echo date('h:i A'); ?></p>
+            <p class="last-updated">&copy; <?php echo date('Y'); ?> Jayamuni Rashminda — All rights reserved.</p>
         </footer>
     </div>
     
