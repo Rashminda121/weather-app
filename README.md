@@ -189,9 +189,8 @@ Edit `functions.php` to:
 
 ---
 
-Thank you for using the Weather Dashboard!  
-For questions, issues, or contributions, please feel free to open an issue or submit a pull request.
-
+Thank you for using the Weather Dashboard!
+  
 Stay safe and enjoy accurate weather updates! ☀️🌧️🌙
 
 
